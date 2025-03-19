@@ -12,7 +12,7 @@
 </p>
 <p style="color:darkblue"> <!--សម្រាប់ពណ៌P-->
 Dean's Message Information On behalf of faculty members and staff of the College of Science and Technology I would like to welcome you to the College of Science and Technology at The University of Cambodia.
-The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013.B
+The College of Science and Technology (CoST) was established at the same time as The University of Cambodia in 2013.B
 </p>
 <h2 style="background-color:darkblue; color:white; border;2px solid green; font-size:150%; font-family:Alfredo Heavy; text-align:center;"> បន្ទប់អនុវត្ត-Computer Labs </h2>
 <img src="Lab1.jpg" width="300" height="200">
@@ -22,4 +22,3 @@ The College of Science and Technology (CoST) was established at the same time as
 <img src="UC.jpg" width="50" height="50">
 College Science and technology Copyright@2025
 </footer>
-
