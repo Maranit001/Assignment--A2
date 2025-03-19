@@ -1,4 +1,5 @@
 
+<body style="background-color:lightgray;"> 
 <h2 style="background-color:darkblue; color:white; border:2px solid green; font-family:Kh Muol; font-size:200%; text-align:center;">មហាវិទ្យាល័យវិទ្យាសាស្រ្តនិងបច្ចេកវិទ្យា</h2>
 <a href="https://cost.uc.edu.kh">Visit College Science and Technology</a>
 <p style="color:darkblue; border:2px solid green;">
@@ -10,7 +11,7 @@
 6. Network Engineering and Cybersecurity<br>
 7. AI and Data Science
 </p>
-<p style="color:darkblue"> <!--សម្រាប់ពណ៌P-->
+<p style="color:darkblue"> 
 Dean's Message Information On behalf of faculty members and staff of the College of Science and Technology I would like to welcome you to the College of Science and Technology at The University of Cambodia.
 The College of Science and Technology (CoST) was established at the same time as The University of Cambodia in 2013.B
 </p>
